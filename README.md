@@ -37,6 +37,18 @@ En el catalogitoVHPP es posible:
  * Y por supuesto Borrar las búsquedas realizadas
  * UPS! Cabe destacar que la búsqueda de autores vivos en un determinado año tiene errores.
 
+<img width="820" alt="Captura de pantalla (1948)" src="https://github.com/user-attachments/assets/bc0c05d9-209a-47bd-9409-503af49487e9">
+
+<img width="812" alt="Captura de pantalla (1949)" src="https://github.com/user-attachments/assets/5e55b210-596e-4f57-95ad-94abdc284bd6">
+<img width="769" alt="Captura de pantalla (1950)" src="https://github.com/user-attachments/assets/b08ee3a4-855d-4ffe-9dfa-a606e26ef1dc">
+<img width="627" alt="Captura de pantalla (1952)" src="https://github.com/user-attachments/assets/af41b95d-9b58-41fa-ad41-7096202a7a0c">
+<img width="714" alt="Captura de pantalla (1953)" src="https://github.com/user-attachments/assets/5b437bba-b840-434c-b3d4-8d038ee235b9">
+<img width="751" alt="Captura de pantalla (1955)" src="https://github.com/user-attachments/assets/453ff799-7ab7-4d00-9649-de1325e35829">
+<img width="749" alt="Captura de pantalla (1957)" src="https://github.com/user-attachments/assets/d0e0787e-528d-43f9-adb6-3cbb98eefcff">
+<img width="760" alt="Captura de pantalla (1959)" src="https://github.com/user-attachments/assets/5e8672d3-34e4-4089-8088-e4a00d46bcea">
+<img width="598" alt="Captura de pantalla (1961)" src="https://github.com/user-attachments/assets/eb1c90ed-1d05-4de2-ab5d-ce197d7fc2e6">
+<img width="772" alt="Captura de pantalla (1964)" src="https://github.com/user-attachments/assets/dad5d1c6-5daf-4dd6-b0b3-8c8beb59dfa9">
+
 
 [Video explicativo]()
 
