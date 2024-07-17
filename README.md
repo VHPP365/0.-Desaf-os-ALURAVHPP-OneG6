@@ -4,7 +4,7 @@
 
 Es un conversor de monedas que emplea la API de Exchange Rate. Este programa consume datos de la API, obtiene un JSON que contiene la información de las monedas y mediante la implementación de métodos permite la conversión entre monedas de diferentes denominaciones:
 
-![Conversor de Monedas]()<img width="934" alt="Miniatura_conversor_de_mondeas_VHPP_alura" src="https://github.com/user-attachments/assets/d78e78b3-2b35-42e8-aea3-3488c9a60493">
+<img width="934" alt="Miniatura_conversor_de_mondeas_VHPP_alura" src="https://github.com/user-attachments/assets/d78e78b3-2b35-42e8-aea3-3488c9a60493">
 
 
 [Video explicativo](https://www.youtube.com/watch?v=PtXqTBP8yak)
@@ -36,6 +36,7 @@ En el catalogitoVHPP es posible:
  * Listar los libros buscados por idioma
  * Y por supuesto Borrar las búsquedas realizadas
  * UPS! Cabe destacar que la búsqueda de autores vivos en un determinado año tiene errores.
+ * UPS! Cabe destacar que la búsqueda por idiomas es lenta, muy lenta.
 
 <img width="820" alt="Captura de pantalla (1948)" src="https://github.com/user-attachments/assets/bc0c05d9-209a-47bd-9409-503af49487e9">
 
