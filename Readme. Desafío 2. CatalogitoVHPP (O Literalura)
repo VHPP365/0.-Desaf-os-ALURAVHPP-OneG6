@@ -1,0 +1,29 @@
+# Desafío 2. CatalogitoVHPP (O Literalura)
+
+## Descripción
+
+En el catalogitoVHPP es posible:
+ * Buscar libros por título o autor
+ * Listar los libros buscados por título o autor,
+ * Listar los libros buscados por idioma
+ * Y por supuesto Borrar las búsquedas realizadas
+ * UPS! Cabe destacar que la búsqueda de autores vivos en un determinado año tiene errores.
+
+
+[Video explicativo]()
+
+## Instrucciones de instalación
+
+Sólo descarguen el código y ejecútenlo desde IntelliJ.
+
+## Tecnologías
+
+* Java 21
+* API de Gutendex
+* 
+
+## Autor
+
+Víctor Hugo Pérez Pérez.
+
+Este proyecto es resultado de mi formación Back End de Alura y Oracle. Muchas gracias.
