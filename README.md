@@ -69,3 +69,9 @@ Víctor Hugo Pérez Pérez.
 
 Este proyecto es resultado de mi formación Back End de Alura y Oracle. Muchas gracias.
 
+
+
+# Desafío 3. FORO
+
+## Descripción
+Lamentablemente no lo pude concluir y tiene errores. Una disculpa enorme. Muy buen día.
